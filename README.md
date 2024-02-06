@@ -3,7 +3,7 @@
 
 ### 📚 Descrição
 Esse projeto simula um conversor de moeda (de dólar para real ou vice-versa) <br>
-Desenvolvido em HTML, CSS e JavaScript, para fixação de conteúdo.
+Desenvolvido em HTML, CSS e JavaScript durante a Imersão Dev da Alura.
 
 ### 📁 Acesso
 Hospedado no Netlify <br>
