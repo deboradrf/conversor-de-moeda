@@ -4,21 +4,21 @@
   <img src="https://img.shields.io/github/stars/deboradrf?style=social">
 </p>
 
-> ### 📚 Descrição
+## 📚 Descrição
 Projeto desenvolvido durante a Imersão DEV 7ª Edição da Alura, que simula um conversor de moedas.
 
-> ### 🎨 Layout
+## 🎨 Layout
 <img src="https://github.com/deboradrf/conversor-de-moeda/assets/130398684/c2f6ae94-c243-43da-9c9e-aed603e7b1c2">
 
-> ### ⚙️ Funcionalidades
+## ⚙️ Funcionalidades
 ``1`` Escolha a moeda para qual deseja converter e o valor será mostrado abaixo.
 
-> ### ✔️ Tecnologias utilizadas
+## ✔️ Tecnologias utilizadas
 - ``Visual Studio Code``
 - ``HTML``
 - ``CSS``
 - ``JavaScript``
 
-> ### 📁 Acesso ao projeto
+## 📁 Acesso ao projeto
 Hospedado no Netlify <br>
 Link: https://conversordemoeda-deboradrf.netlify.app
