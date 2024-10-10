@@ -11,10 +11,10 @@ Projeto desenvolvido durante a Imersão DEV 7ª Edição da Alura, que simula um
 <img src="https://github.com/deboradrf/conversor-de-moeda/assets/130398684/c2f6ae94-c243-43da-9c9e-aed603e7b1c2">
 
 ### ✔️ Tecnologias utilizadas
-- ``Visual Studio Code``
-- ``HTML``
-- ``CSS``
-- ``JavaScript``
+- Visual Studio Code
+- HTML
+- CSS
+- JavaScript
 
 ### 📁 Acesso ao projeto
 Hospedado no Netlify `https://conversordemoeda-deboradrf.netlify.app`
